@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "@esy-ocaml/reason": "^3.6.0",
+    "@opam/reason": "*",
     "@opam/ctypes": "*",
-    "ocaml": "4.10.0"
+    "ocaml": "4.12.x"
   },
   "devDependencies": {
     "@opam/ocaml-lsp-server": "ocaml/ocaml-lsp:ocaml-lsp-server.opam"
